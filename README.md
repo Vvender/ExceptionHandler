@@ -1,4 +1,4 @@
-EXCEPTION HANDLER MODULE:
+EXCEPTION HANDLER MODULE
 
 Module Overview:
 This module defines a custom exception handler class, CustomExceptionHandler, which captures and logs exceptions. It provides a mechanism to map specific exception types to custom error codes and messages.
